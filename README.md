@@ -1,1 +1,1 @@
-“Basic Python projects including games, utilities, and practice programs.”
+Basic Python projects including games, utilities, and practice programs.
