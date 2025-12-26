@@ -1,1 +1,1 @@
-Basic Python projects including games, utilities, and practice programs.
+This repository contains basic Python projects including simple games, small utilities, and practice programs created to strengthen programming fundamentals and logical thinking.
