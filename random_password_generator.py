@@ -1,5 +1,7 @@
-import random
-import string
+# This program generates a random password of user-specified length using letters, digits, 
+# and symbols, while safely handling invalid input.
+
+import random, string
 
 allchar=string.ascii_letters + string.digits + string.punctuation
 
