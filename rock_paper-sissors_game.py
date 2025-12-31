@@ -1,3 +1,7 @@
+"""This program lets the user play a Rock-Paper-Scissors game against 
+the computer, providing the result of each round and allowing the user 
+to replay until they choose to quit."""
+
 import random
 
 def game_start():
