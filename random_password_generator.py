@@ -16,8 +16,7 @@ while True:
 
     random_password = ""
     for i in range(user_input):
-          random_pass = random.choices(allchar)
-          random_password = random_pass + random_pass
+         random_password += random.choice(allchar)
           
     print("Random password is: ",random_password)
     break
