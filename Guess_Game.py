@@ -1,3 +1,7 @@
+"""This program is a number guessing game where the user tries to guess a 
+random number between 1 and 100, receiving hints if the guess is too high 
+or too low, and the total number of attempts is displayed when the user wins."""
+
 import random
 
 class Guess_game:
