@@ -16,9 +16,12 @@ while True:
         print("Password length must be greater than 0")
         continue
 
-    random_password = ""
-    for i in range(user_input):
-         random_password += random.choice(allchar)
+    # Using list comprehension
+    random_password="".join([random.choice(allchar) for i in range(user_input)])
+
+    # random_password = ""
+    # for i in range(user_input):
+    #      random_password += random.choice(allchar)
           
     print("Random password is: ",random_password)
     break
