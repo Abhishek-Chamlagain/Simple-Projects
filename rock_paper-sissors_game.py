@@ -1,6 +1,6 @@
 """This program lets the user play a Rock-Paper-Scissors game against 
 the computer, providing the result of each round and allowing the user 
-to replay until they choose to quit."""
+to replay until they choose to quit. """
 
 import random
 
@@ -11,7 +11,7 @@ def game_start():
         user=input(f"Enter your choice: ").lower()
 
         if(user==bot):
-            print(f"Equal... Computer choice is {bot}")
+            print(f"Equal!!! Computer choice is {bot}")
 
         elif( user == "rock" and bot == "scissors" ) or \
         ( user == "paper" and bot == "rock" ) or \
