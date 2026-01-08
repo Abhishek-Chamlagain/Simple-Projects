@@ -1,1 +1,3 @@
 This repository contains basic Python projects including simple games, small utilities, and practice programs created to strengthen programming fundamentals and logical thinking.
+
+Author - Abhishek Chamlagain
